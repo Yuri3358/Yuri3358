@@ -1,4 +1,4 @@
-<!--
+
 <div aligned="center">
 <img 
     height="180em" 
