@@ -1,6 +1,7 @@
 <h2>Apresentação</h2>
-<p>Saudações, eu me chamo Yuri. Desde agosto de 2021, venho me dedicando ao estudo da programação. Minha principal área de interesse é o desenvolvimento web, onde tenho me aprofundado nas linguagens Python e Javascript.</p>
-No momento, não mantenho perfis em redes sociais públicas. Planejo considerar a criação de um perfil quando estiver buscando emprego, mas por enquanto, prefiro manter um perfil mais discreto.</p>
+<p>Saudações, eu me chamo Yuri. Desde agosto de 2021, venho me dedicando ao estudo da programação. Minha principal área de interesse é o desenvolvimento web, onde tenho me aprofundado nas linguagens Python e Javascript. Além disso, trabalho em um projeto de um bot para o Discord nomeado como Sungbot.</p>
+
+</p>No momento, não mantenho perfis em redes sociais públicas. Planejo considerar a criação de um perfil quando estiver buscando emprego, mas por enquanto, prefiro manter um perfil mais discreto.</p>
 
 <img height="240em" width="480em" src="https://i.imgur.com/QdyTaiv.jpg">
 <h2>Estatísticas</h2>
