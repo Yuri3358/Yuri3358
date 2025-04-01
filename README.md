@@ -1,4 +1,3 @@
-<img height="240em" width="480em" src="https://i.imgur.com/QdyTaiv.jpg">
 <h2>Estatísticas</h2>
 <div aligned="center">
 <img 
