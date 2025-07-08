@@ -14,10 +14,7 @@
 </div>
 <h2>Ferramentas que utilizo</h3>
 <div aligned="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
     <img src="https://img.shields.io/badge/Netlify-0C3FF5?style=for-the-badge&logo=netlify&logoColor=white">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/Firebase-BD6D04?style=for-the-badge&logo=firebase&logoColor=white">
-
 </div>
